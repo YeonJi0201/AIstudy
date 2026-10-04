@@ -1,0 +1,7 @@
+{
+  "name": "동아리 점심 메뉴 룰렛",
+  "description": "귀여운 파스텔 톤의 동아리 점심 메뉴 추천 룰렛 웹앱! 국밥, 돈까스, 마라탕, 학식, 편의점 등 오늘의 점심을 신나게 골라보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
